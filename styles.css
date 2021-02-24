@@ -7,8 +7,19 @@ nav{
     display: flex;
     justify-content: space-between;
     padding: 12px 30px;
+    align-items: center;
 }
 .nav-list{
     list-style-type: none;
     display: flex;
+
+}
+.nav-list li{
+    padding: 0 20px;
+}
+.nav-list a{
+    text-decoration:none;
+    color:#495057 ;
+    text-transform: uppercase;
+    font-size: 14px;
 }
