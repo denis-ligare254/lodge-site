@@ -2,3 +2,13 @@
     margin: 0px;
     padding:0px;
 }
+nav{
+    background: #FBF2E1;
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 30px;
+}
+.nav-list{
+    list-style-type: none;
+    display: flex;
+}
