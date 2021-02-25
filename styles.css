@@ -25,3 +25,6 @@ nav{
     font-size: 14px;
     font-family: 'Lato', sans-serif;
 }
+.nav-list a:hover{
+    color:#E67F0E;
+}
